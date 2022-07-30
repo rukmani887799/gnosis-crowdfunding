@@ -13,6 +13,8 @@ Crowdfunding is the use of small amounts of capital from a large number of indiv
 **IF MORE THAN 50% Donor Agree then the Fundraiser can withdraw money.**
 So when a user contributes to any idea, he actually sees all the work done by that idea, and the owner of that campaign actually puts the request to withdraw the contributed amount with the specified reason which the user can approve or disapprove. so are depending upon the approval ratio then only the money is actually gets credited into the owner's account. And this feature of approving your money to get credited into idea's owner and also knowing the reason why it is being used actually lets the user know about how their money is being used and if there seems any fishy thing happening they could actually disapprove the withdrawal request of the owner and the money is safe.
 
+
+## image
 ![Screenshot 2022-07-30 073024](https://user-images.githubusercontent.com/101476931/181866378-818324ad-9091-40f3-a1b2-db37c4185eb4.png)
 ![Screenshot 2022-07-30 073459](https://user-images.githubusercontent.com/101476931/181866382-8abcc5de-bf30-484a-b623-a49488461028.png)
 ![Screenshot 2022-07-29 192855](https://user-images.githubusercontent.com/101476931/181866384-9364d43b-cb1b-4adb-b23e-9251cca5483f.png)
